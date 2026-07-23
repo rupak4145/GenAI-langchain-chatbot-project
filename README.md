@@ -14,15 +14,8 @@
 
 ---
 
-## 📺 Video Series
 
-| Video | Title | Link |
-|---|---|---|
-| Part 1 | Agentic AI in DevOps — The Skill Every Cloud Engineer Needs in 2026 | [Watch](https://youtube.com/@CloudAdvocate) |
-| Part 2 | Local LLM vs Cloud API for DevOps Agents — Which Should You Use in 2026? | [Watch](https://youtube.com/@CloudAdvocate) |
-| Part 3 | Wire Your AI Agent to Real GitHub Actions (coming soon) | 🔜 |
 
-*Cloud Advocate · GK*
 
 ---
 
@@ -372,15 +365,6 @@ requests>=2.31.0
 - [ ] Datadog / CloudWatch metrics correlation
 
 ---
-
-## 👨‍💻 About
-
-Built by **GK** — Cloud Architect and DevSecOps practitioner with 10+ years of enterprise networking and telecom experience.
-
-**Cloud Advocate** is a YouTube channel covering AI on Cloud, DevSecOps, Multi-cloud, FinOps, and Cloud Career guidance with real-world hands-on depth.
-
-📺 [YouTube — Cloud Advocate](https://youtube.com/@CloudAdvocate)
-💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-gk/)
 
 ---
 
